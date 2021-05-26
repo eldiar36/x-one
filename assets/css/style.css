@@ -164,7 +164,6 @@ main {
 .b-lazy.b-loaded {
     opacity: 1;
 }
-
 #achievements .achievements-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -2046,5 +2045,4 @@ footer .footer-copyright .logo{
     #knowledge-base .consultation-box {
         margin: 80px 20px 0 20px;
     }
-
 }
